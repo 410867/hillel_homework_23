@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    margin-top: 20px;
+}
+
+td {
+    border: 2px solid #777777;
+    padding: 15px 15px 15px 15px;
+}
